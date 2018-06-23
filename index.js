@@ -2,6 +2,7 @@
 
 var name = "Nafisa";
 var height = "42";
+var 
 
 console.log("Name:");
 console.log(name);
