@@ -2,7 +2,7 @@
 
 var name = "Nafisa";
 var height = "6'3";
-var weight = "125 lb";
+var weight = "125";
 
 console.log("Lady's Name:");
 console.log(name);
