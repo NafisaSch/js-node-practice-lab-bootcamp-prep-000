@@ -11,6 +11,6 @@ console.log("Nafisa's Height:");
 console.log(height);
 
 console.log ("Weight of Nafisa");
-console.log ("weight");
+console.log (weightnode);
 
 
